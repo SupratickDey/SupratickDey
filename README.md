@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SupratickDey
 - 👀 I’m interested in learning new technologies and take up challenges.
-- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on open source projects...
 - 📫 Reach me on me.suprodey@gmail.com
 
