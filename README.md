@@ -29,4 +29,4 @@ I am a passionate backend developer working in the healthcare industry. My exper
 
 Feel free to connect with me if you share similar interests or if you have exciting opportunities. Let's build something great together!
 
-[Email](me.suprodey@gmail.com) | [Linkedin](https://www.linkedin.com/in/supratick-dey-81285315b/) | [Portfolio](supratickdey.site)
+[Email](mailto:me.suprodey@gmail.com) | [Linkedin](https://www.linkedin.com/in/supratick-dey-81285315b/) | [Portfolio](https://supratickdey.site/#/)
